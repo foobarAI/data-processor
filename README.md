@@ -3,7 +3,7 @@ Data pre processing- currently working
 1. Subject lines and body are bounded by (50, 20) words respectively
 2. Subject lines and body follow sentence boundaries
 3. Body does not include salutations/ signature \
-TODO
+**TODO**
 1. Remove unwanted characters like "?", ".?", "[image]" etc
 2. Normalization: Replace infrequent words like personal names, URLs, email addresses, phone numbers etc. with special tokens like "UNK"
 3. Quotation removal: Remove all quoted text
